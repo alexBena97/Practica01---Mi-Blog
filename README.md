@@ -2,7 +2,8 @@
 <h1>Objective</h1>
 
 <ul>
-  <li> Tener el conocimiento suficiente para que el estudiante pueda entender y organizar de una mejor manera
-        los sitios de web y de negocios en Internet
-  </li> 
-</ul>
+  <li>Insertar elementos y atributos en HTML </li>
+  <li>Utilizar listas ordenadas o desordenadas para la navegación entre paginas html </li>
+  <li>Utilizar ids para la navegación entre artículos de una misma página html. </li>
+  <li>Utilización de etiquetas  nuevas para la creación de tablas</li>
+ </ul>
